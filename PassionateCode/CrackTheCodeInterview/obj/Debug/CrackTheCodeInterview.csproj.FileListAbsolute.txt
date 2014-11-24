@@ -1,0 +1,5 @@
+E:\GitRepository\study\PassionateCode\CrackTheCodeInterview\bin\Debug\CrackTheCodeInterview.exe
+E:\GitRepository\study\PassionateCode\CrackTheCodeInterview\bin\Debug\CrackTheCodeInterview.pdb
+E:\GitRepository\study\PassionateCode\CrackTheCodeInterview\obj\Debug\CrackTheCodeInterview.csprojResolveAssemblyReference.cache
+E:\GitRepository\study\PassionateCode\CrackTheCodeInterview\obj\Debug\CrackTheCodeInterview.exe
+E:\GitRepository\study\PassionateCode\CrackTheCodeInterview\obj\Debug\CrackTheCodeInterview.pdb

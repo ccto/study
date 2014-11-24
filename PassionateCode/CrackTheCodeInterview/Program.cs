@@ -9,6 +9,10 @@ namespace CrackTheCodeInterview
     {
         static void Main(string[] args)
         {
+            StringUnique su = new StringUnique();
+            Console.WriteLine(su.IsUniqueChars2("abcdef"));
+            Console.WriteLine(su.IsUniqueChars2("aca"));
+            Console.ReadLine();
         }
     }
 }
